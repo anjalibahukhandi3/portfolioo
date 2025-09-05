@@ -15,8 +15,7 @@ A modern, responsive portfolio website showcasing my Android development skills,
 - **Frontend**: React 18, TypeScript
 - **Styling**: Tailwind CSS, shadcn/ui components
 - **Build Tool**: Vite
-- **Icons**: Lucide React
-- **Deployment**: Ready for Vercel, Netlify, or GitHub Pages
+- **Deployment**: Ready for Vercel
 
 ## 📱 Projects Featured
 
@@ -66,8 +65,7 @@ The build files will be in the `dist` directory, ready for deployment.
 This project is ready to deploy on:
 - **Vercel** (Recommended)
 - **Netlify**
-- **GitHub Pages**
-- **Any static hosting service**
+
 
 ## 📧 Contact
 
